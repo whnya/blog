@@ -42,7 +42,7 @@ We first need to install `dmenu`, `kitty`, and `firefox-developer-edition` so yo
 
 - Press `$MOD` + `D` (Press `$MOD` and `D` keys simultaneously), type `firefox-developer-edition` and press `Enter`. A window with a title `Firefox Developer Edition` should appear.
 
-- Hover to the address bar, right-click, type `blog.whinyaan.xyz/arch-install`, and press `Enter`. You should now be able to copy and paste commands on your machine.
+- Hover to the address bar, right-click, type `blog.whinyaan.xyz/blog/arch reinstall`, and press `Enter`. You should now be able to copy and paste commands on your machine.
 
 - Press `$MOD` + `D` (Press `$MOD` and `D` keys simultaneously), type `kitty` and press `Enter`. A window with a title `~` should appear. You will now use this terminal to run the rest of the commands.
 
