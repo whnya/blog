@@ -1,0 +1,9 @@
+favicons:
+  png:
+    android-chrome-96x96: 96
+    apple-touch-icon: 76
+    favicon-16x16: 16
+    favicon-32x32: 32
+    mstile-150x150: 222
+  ico:
+    favicon: 48
